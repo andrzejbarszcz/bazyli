@@ -1,0 +1,146 @@
+body {
+        background-color: #cc9999;
+        color: white;
+        padding: 20px;
+		z-index: 1;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+		background-image: url("../grafika/tloFuksja.jpg");
+		background-repeat: repeat;
+		}
+      h1 {
+        
+        width: 380px;
+		height: 70px;
+		background-color: orange;
+        border-radius: 30px;
+		text-align: center;
+		border: 5px solid #990033;
+		position: relative;
+		left: 440px;
+		color: black;
+		display: table-cell;
+		vertical-align: middle;
+		
+		
+		}
+      p {
+        padding: 5px;
+        margin: 0px;
+		}
+      p.zero {
+        background-color: rgb(238,62,128);}
+      p.one {
+        background-color: rgb(244,90,139);}
+      p.two {
+        background-color: rgb(243,106,152);}
+      p.three {
+        background-color: rgb(244,123,166);}
+      p.four {
+        background-color: rgb(245,140,178);}
+      p.five {
+        background-color: rgb(246,159,192);}
+      p.six {
+        background-color: rgb(245,176,204);}
+      p.seven {
+        background-color: rgb(0,187,136);}
+      p.eight {
+        background-color: rgb(140,202,242);}
+      p.nine {
+        background-color: rgb(114,193,240);}
+      p.ten {
+        background-color: rgb(84,182,237);}
+      p.eleven {
+        background-color: rgb(48,170,233);}
+      p.twelve {
+        background-color: rgb(0,160,230);}
+      p.thirteen {
+        margin-bottom: 30px;
+		margin-top: 30px;
+		position: relative;
+		left: 40px;
+		width: 1200px; 
+		border-radius: 40px;
+		background-color: #DB9370;
+		text-align : left;
+		font-size: 150%;
+		color: black;
+		border: 5px solid #990033;
+		opacity: 1;
+		padding: 10px;
+		background-image: url("../grafika/tloKropki.jpg");
+		background-repeat: repeat;
+		
+		}
+      p.fourteen {
+        margin-bottom: 10px;
+		text-align : left;
+		font-size: 150%;
+		color: yellow;
+		border: 5px solid #990033;
+		border-radius: 20px;
+		background-color: rgb(0,136,221);
+		opacity: 1;
+		padding-left: 25px;
+		}
+	img.small {
+		width: 60px;
+		height: 40px;
+		border: 1px solid #000000;}
+	img.czarna {
+		background-color: black;
+	}
+	img.biala {
+		background-color: white;
+	}
+	
+	p.strzalkaTlo {
+		width: 150px;
+		height: 100px;
+		display: table-cell;
+		vertical-align: middle;
+		text-align: center;
+		background-image: url("../grafika/strzalka.gif");
+		background-size: 150px 100px;
+		background-repeat: no-repeat;
+		background-position: center center;
+		
+	}
+	
+	h1.chmurkaTlo {
+		width: 400px;
+		height: 150px;
+		display: table-cell;
+		vertical-align: middle;
+		text-align: center;
+		border-radius: 100px;
+		background-image: url("../grafika/tlo.gif");
+		background-size: 300px 200px;
+		background-repeat: no-repeat;
+		background-position: center center;
+		
+	}
+	
+	
+	a:hover {
+		opacity: 0.8;
+	}
+	
+	video {
+		padding-left: 15px;
+	}
+	
+	span.span1 {
+		color: green;
+		padding: 30px;
+		position: relative;
+		bottom: 20px;}
+	span.span1:hover {
+		color: gray;
+	}		
+	
+	span.span2 {
+		position: relative;
+		left: 450px;
+	}	
+	
+	
